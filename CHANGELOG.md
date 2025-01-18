@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/thiago186/test-squash/compare/v1.2.2...v1.2.3) (2025-01-18)
+
+
+### Bug Fixes
+
+* fix line 11 ([70b8071](https://github.com/thiago186/test-squash/commit/70b8071ebfd05aa6c8261b607470397bfcab7056))
+
 ## [1.2.2](https://github.com/thiago186/test-squash/compare/v1.2.1...v1.2.2) (2025-01-18)
 
 
